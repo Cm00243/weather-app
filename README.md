@@ -58,12 +58,10 @@ This project was developed to enhance my understanding of:
 - Using Tailwind CSS for responsive and modern UI design.
 - Handling form inputs and dynamically updating the DOM with JavaScript.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
-- [Tailwind CSS](https://tailwindcss.com/) for making it easy to style the frontend.
+- [Tailwind CSS](https://tailwindcss.com/) for making it easy to style the front end.
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
